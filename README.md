@@ -115,7 +115,7 @@ Ammar Ahmed Saleh                      24p0189@eng.asu.edu.eg
 
 Ahmed Tamer Ahmed                     24p0212@eng.asu.edu.eg
 
-Islam Bassem Kamal                        24p0209@eng.asu.edu.eg
+Islam Bassem Kamal                       24p0209@eng.asu.edu.eg
 
 Mohamed Osama Mohamed          24p0211@eng.asu.edu.eg
 
